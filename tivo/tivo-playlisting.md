@@ -14,7 +14,11 @@ User: CapitalHackathon
 
 Password: CapitalDec2018
 
-**Editorial & Automated Playlist Creation**
+For example, here's an API request for the 'Christmas' playlist you'll see in the playlisting console \(note the 'MW' ID is our album ID you can use with our Rovi Cloud Services API to retrieve album imagery and other associated information\) - 
+
+[https://discovery-demo.digitalsmiths.net/sd/tivo-music/carousels/christmas](https://discovery-demo.digitalsmiths.net/sd/tivo-music/carousels/christmas) 
+
+**Editorial Playlist Creation \(custom build your own playlists\)**
 
 Navigation Pane: Select Carousels from the left navigation pane
 
@@ -40,7 +44,7 @@ Editorial Playlists: Click the “+” in the top left of the to create a newcar
 
 6. Click the disk icon on the top right of the screen to save it. You’ve created an Editorial Carousel.
 
-**Automated Playlists**
+**Automated Playlists \(create a playlist based on artist, album themes, moods, tones, etc\)**
 
 Click the “+” in the top left of the screen to create anew carousel
 
