@@ -8,11 +8,11 @@ We're providing an interactive Playlisting Prototype and select assets from our 
 * Tones, Themes, Moods, and Similar Artists
 * Artist & UMG album artwork
 
-{% embed url="https://discovery-beta-admin-0.digitalsmiths.net/console/login" %}
+[https://discovery-demo.digitalsmiths.net/console/populations/tivo-music/carousels](https://discovery-demo.digitalsmiths.net/console/populations/tivo-music/carousels)
 
 User: CapitalHackathon
 
-Password: CapitalJune2018
+Password: CapitalDec2018
 
 **Editorial & Automated Playlist Creation**
 
