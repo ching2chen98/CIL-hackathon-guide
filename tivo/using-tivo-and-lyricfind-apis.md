@@ -116,7 +116,7 @@ Use the below link and choose File&gt;Download As&gt;CSV to import a CSV into yo
 
 **Cheat Sheet** - Master Themes List
 
-[https://docs.google.com/spreadsheets/d/1OMA091NxeAFpOUAfPBU6AoP4iixNg3y1lDFK_u9G2gk/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1OMA091NxeAFpOUAfPBU6AoP4iixNg3y1lDFK_u9G2gk/edit?usp=sharing)
+{% embed url="https://docs.google.com/spreadsheets/d/1OMA091NxeAFpOUAfPBU6AoP4iixNg3y1lDFK_u9G2gk/edit?usp=sharing" %}
 
 **Real-Time** **Trending & All-Time Popularity**
 
