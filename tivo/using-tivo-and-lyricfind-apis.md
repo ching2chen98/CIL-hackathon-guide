@@ -62,7 +62,7 @@ If the ISRC can't be used to retrieve track lyrics, use the 'AMG' T\_ID from the
 
 Use the below link and choose File&gt;Download As&gt;CSV to import a CSV into your SQL/Mongo DB or to simply preview the artists, albums, and tracks in the catalog.
 
-{% embed url="https://docs.google.com/spreadsheets/d/1NO7v6o58JAPjpRJuHQh86pIrI69dCKaobZby-6XpGps/edit?usp=sharing" %}
+https://docs.google.com/spreadsheets/d/1NO7v6o58JAPjpRJuHQh86pIrI69dCKaobZby-6XpGps/edit?usp=sharing
 
 **TiVo Music ID** Breakdown
 
