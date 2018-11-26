@@ -1,8 +1,8 @@
 # Table of contents
 
-* [Capitol 360 Innovation Center Hackathon Guide](README.md)
+* [Capitol Royale 2018 Hackathon Guide](README.md)
 
-## Capitol360 December 2018 Hackathon Guide
+## Capitol Royale 2018 Hackathon Guide
 
 * [Arrival Guide / Parking](capitol360-innovation-center-hackathon-guide/arrival-guide-parking.md)
 * [Dec'18 Challenges](capitol360-innovation-center-hackathon-guide/dec18-umg-challenges/README.md)
@@ -36,10 +36,15 @@
   * [Audio to Waveform Images](cloudinary/cloudinary-guide/audio-to-waveform-images.md)
   * [Social and Cloud Sources](cloudinary/cloudinary-guide/social-and-cloud-sources.md)
   * [Webtask & Cloudinary](cloudinary/cloudinary-guide/webtask-and-cloudinary.md)
+* [Cloudinary API: Workshop Deck](cloudinary/cloudinary-api-workshop-deck.md)
 
 ## 7Digital
 
-* [Using 7Digital API](7digital/using-7digital-api.md)
+* [UMG Catalog / 7digital API](7digital/using-7digital-api.md)
+* [API Specifics](7digital/api-specifics.md)
+* [Streaming Audio Files](7digital/streaming-audio-files.md)
+* [Catalog Metadata Available](7digital/catalog-metadata-available.md)
+* [API Error Codes & Messages](7digital/api-error-codes-and-messages.md)
 
 ## Tivo
 
@@ -49,6 +54,10 @@
 ## ConsenSys
 
 * [ConsenSys Hackathon Developer Guide](consensys/consensys-hackathon-developer-guide.md)
+
+## Spotify
+
+* [Spotify API](spotify/spotify-api.md)
 
 ## Qloo
 
