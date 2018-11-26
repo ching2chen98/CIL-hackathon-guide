@@ -62,7 +62,7 @@ If the ISRC can't be used to retrieve track lyrics, use the 'AMG' T\_ID from the
 
 Use the below link and choose File&gt;Download As&gt;CSV to import a CSV into your SQL/Mongo DB or to simply preview the artists, albums, and tracks in the catalog.
 
-{% embed url="https://docs.google.com/spreadsheets/d/e/2PACX-1vQbyyXIbfNvjStvG7Jlhv5M2djSEsc\_YU0cTA5K6NYtabPgtxojrZBTHeyiTAAJ9BDfgToRKYbnh039/pubhtml" %}
+{% embed url="https://docs.google.com/spreadsheets/d/1NO7v6o58JAPjpRJuHQh86pIrI69dCKaobZby-6XpGps/edit?usp=sharing" %}
 
 **TiVo Music ID** Breakdown
 
@@ -108,15 +108,15 @@ In the following example, we're using the song, 'Tangled' by Maroon 5 - adding t
 
 Use the below link and choose File&gt;Download As&gt;CSV to import a CSV into your SQL/Mongo DB for a master list of all TiVo Music genres, subgenres, and styles - this can come in handy to create a genre/subgenre/style map or discovery experience.
 
-{% embed url="https://docs.google.com/spreadsheets/d/e/2PACX-1vRn9fTzFh3xAcd4HTEe58YUDZOAs73SyISSAsjaNJleyPc7W7wSoMHyMcHnuj8uadwEwLqQCU8N-n\_q/pubhtml" %}
+{% embed url="https://docs.google.com/spreadsheets/d/1PgrGIifacbLokkh7mZgjU2JIi1zUGdVA0HMx4wlJIGs/edit?usp=sharing" %}
 
 **Cheat Sheet** - Master Moods List
 
-{% embed url="https://docs.google.com/spreadsheets/d/e/2PACX-1vQuXROb4bz9zrXrewjUnspdteGPoawuLMkUz3PcJRgkG5ZNJtjB7qTCw5tRzQs7IJt-Wxh02MUZ-d2i/pubhtml" %}
+{% embed url="https://docs.google.com/spreadsheets/d/1K_o6rKLHZ5zTkGbxLRw9ERXzpX3SfnKQSjKIKKaQHtM/edit?usp=sharing" %}
 
 **Cheat Sheet** - Master Themes List
 
-[https://docs.google.com/spreadsheets/d/e/2PACX-1vREqa\_kWdxbPxj8s1EQTKAm4\_pl7qQ4KOQ\_q8q9u-qeVelj9Ftjm5ly2o8FavWQH\_e-IHneq-wr1LIg/pubhtml](https://docs.google.com/spreadsheets/d/e/2PACX-1vREqa_kWdxbPxj8s1EQTKAm4_pl7qQ4KOQ_q8q9u-qeVelj9Ftjm5ly2o8FavWQH_e-IHneq-wr1LIg/pubhtml)
+[https://docs.google.com/spreadsheets/d/1OMA091NxeAFpOUAfPBU6AoP4iixNg3y1lDFK_u9G2gk/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1OMA091NxeAFpOUAfPBU6AoP4iixNg3y1lDFK_u9G2gk/edit?usp=sharing)
 
 **Real-Time** **Trending & All-Time Popularity**
 
