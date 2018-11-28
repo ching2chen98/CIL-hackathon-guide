@@ -1,7 +1,3 @@
----
-description: (Tentative) Please check back regularly for updates
----
-
 # Verizon 5G Challenge
 
 _**Creative Brief**_ 
