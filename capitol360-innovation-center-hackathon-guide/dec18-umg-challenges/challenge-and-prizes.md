@@ -21,9 +21,19 @@ Best use case of Qloo's API \(in conjunction with UMG's sandbox catalog delivere
 
 Discover music by its relation to any combination of locations, books, restaurants, fashion, film, music or TV.
 
-### Cloudinary **Challenge:**
+### Twitch
 
-![](https://res.cloudinary.com/cloudinary/image/upload/c_scale,w_300/v1/logo/for_white_bg/cloudinary_logo_for_white_bg.png)
+* 100k Bits awarded to the team that builds the best interactive experience with music, gaming and live streaming with Twitch Extensions
+
+
+
+### ConsenSys
+
+* 5 Ethereum awarded to the team that demonstrates the best web3 applications in music
+
+
+
+### Cloudinary **Challenge:**
 
 Build and demonstrate the best use of Cloudinary in your hack to win fun prizes.
 
@@ -36,29 +46,23 @@ Build and demonstrate the best use of Cloudinary in your hack to win fun prizes.
 
 ### TiVo **Challenge:**
 
-![](../../.gitbook/assets/tivo_lockup_blk_blue_2.png)
-
 * 8x$200 Gift Certificates to be awarded to the team\(s\) that makes best use of TiVo's metadata 
 * Potential uses include:
   * Use more than one TiVo Music descriptor for artists, albums, or tracks in your application – any combination of moods, styles, themes.
   * Use more than one TiVo Music Artist association – any combination of ‘AssociatedWith’, ‘Collaborator With’, Contemporaries, Followers, Group Members, Influencers, Member Of, Similars
   * Use the TiVo Music ‘Similar’ API to retrieve similar artists, albums, or songs \(requires use of an TiVo Artist/Name ID, Album ID, Track ID\)
 
-### 
+
 
 ### Spotify 
 
-* Prizes will be awarded to teams who demonstrate the most creative use of the Spotify developer platform
+* Spotify curated gift bags will be awarded to teams who demonstrate the most creative use of the Spotify developer platform
 
-\*\*\*\*
+
 
 ### Gener8tor Final Round Interview
 
 * A final round interview to participate in gener8tor’s 12-week Accelerator program with up to $90k in financing
-
-\*\*\*\*
-
-### MORE INFO TO COME!!!
 
 
 
